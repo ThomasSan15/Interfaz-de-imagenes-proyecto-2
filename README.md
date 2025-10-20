@@ -46,6 +46,7 @@ Compu-grafica/
 
 ## Autor
 Pablo Marín
+Thomas Beltran
 
 ## Licencia
 Uso educativo.
